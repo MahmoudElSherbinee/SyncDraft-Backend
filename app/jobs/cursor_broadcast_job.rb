@@ -1,0 +1,3 @@
+class CursorBroadcastJob < ApplicationJob
+
+end
